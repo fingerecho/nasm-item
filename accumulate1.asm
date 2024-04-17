@@ -1,5 +1,6 @@
 ;从1-X,计算从1+...+x的和
 ; x(1,1000)
+; compile:nasm -f elf32 accumulate1.asm -o accumulate.o && gcc -m32 accumulate.o && ./a.out
 
 extern printf
 extern exit
