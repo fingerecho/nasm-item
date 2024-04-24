@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/helloworld"/>
+    <qresource prefix="/">
+        <file>resources/icon/USBdevice.png</file>
+        <file>resources/icon/myapp.png</file>
+        <file>resources/icon/sharedprinter.png</file>
+        <file>resources/icon/myDesktop.png</file>
+        <file>resources/icon/myInstalledApp.png</file>
+        <file>resources/icon/myMicrosoftEdge.png</file>
+        <file>resources/icon/myWechat.png</file>
+    </qresource>
+</RCC>
